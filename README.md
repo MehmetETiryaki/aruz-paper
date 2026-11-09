@@ -11,8 +11,6 @@ Web tool: https://mehmetemretiryaki.com/aruz
     pip install -e .
     export STORE=/path/to/data      # all data, models and logs go under here
 
-`WORKERS` sets the number of processes (default: all cores); `PYTHON` picks the interpreter (default `python`).
-
 ## PDFs and LATOC
 
 `data/books.tsv` lists the 14 editions: download page, the file name to save the PDF under, and the MD5 of the
@@ -40,17 +38,6 @@ Set `LATOC_PYTHON` to that interpreter if it differs from `PYTHON`, then:
     bash scripts/evaluate.sh dev
     bash scripts/evaluate.sh test          # all systems, robustness, detector
 
-Results land in `data/results/<split>/` as JSON, one file per system. The trained models are in `models/`; copy them
-to `$STORE/projects/aruz/models/` to skip training.
-
-LLM rows (API keys in the environment):
-
-    bash scripts/llm_baseline.sh claude-opus-5.5 anthropic claude-opus-5-5 test --all-poems
-    python scripts/llm_baseline.py score --label claude-opus-5.5 --split test --allow-test --all-poems
-
-The paper's two runs are in `data/llm/cache/` as labels only; the `score` command reproduces their numbers without
-calling the API.
-
-## Check
+## Health Check
 
     bash scripts/smoke.sh                  # the pipeline after the corpus build, on a few poems
