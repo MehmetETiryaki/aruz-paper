@@ -1,0 +1,62 @@
+mihri hatun divanı#236	number	2	1	audit 7: the PDF prints 1 (Der-Tevḥīd-i Bārī); 2 is the next mesnevî's
+mihri hatun divanı#237	number	null	2	audit 7: the PDF prints 2 (Ḳaṣīde-i ʿAlī Paşa)
+mihri hatun divanı#238	vezin_note	"vezin read from its repeat"	""	audit 7: the vezin is printed once, directly above
+sünbülzade vehbi divanı#415	number	27	271	audit 7: the PDF prints [271]
+muradi divanı#1498	number	1	1511	audit 7: the PDF prints 1511 with footnote 1 glued ("15111")
+muradi divanı#112	n:3	3	5	audit 7: printed under beyit 5 (LATOC lost beyits 3-4 with their numbers)
+muradi divanı#208	n:4	4	5	audit 7: printed beyit 5 (beyit 3 lost)
+muradi divanı#208	n:3	3	4	audit 7: printed beyit 4 (beyit 3 lost)
+muradi divanı#651	n:3	3	4	audit 7: printed beyit 4
+gelibolulu sururi divanı#193	n:1	1	2	audit 7: printed beyit 2 (LATOC lost the maṭlaʿ and both numbers)
+lazikizade feyzullah nafiz divanı#942	page	556	557	audit 7: müfred 5 is printed on p557
+lazikizade feyzullah nafiz divanı#942	number	null	5	audit 7: müfred 5
+lazikizade feyzullah nafiz divanı#942	n:5	5	1	audit 7: the 5 is the müfred number, not a beyit number
+lazikizade feyzullah nafiz divanı#942	vezin_note	"vezin read from its repeat"	""	audit 7: müfred 5's own vezin (müfred 4's misprinted one was dropped)
+taşlıcalı yahya bey divanı#352	number	3	253	audit 7: the PDF prints 253 with stacked digits
+taşlıcalı yahya bey divanı#460	number	5	355	audit 7: the PDF prints 355 with stacked digits
+dürri ahmed efendi divanı#319	page	318	319	audit 7: müfred 9 is printed on p319
+şehri divanı#184	number	4	5	audit 8: the PDF prints müfred 5 before this beyit (audit 7 left it open)
+şehri divanı#184	n:5	5	1	audit 8: the 5 is the müfred number; the record is its one beyit
+şehri divanı#21	number	1	null	audit 8: the mesnevî section is headed II; no number 1 is printed
+şehri divanı#21	n:3	3	4	audit 8: the PDF numbers this beyit 4
+taşlıcalı yahya bey divanı#383	meter_raw	"Fe ilātün Fe ilātün Fe ilātün Fe ilün"	"Feʿilātün Feʿilātün Feʿilātün Feʿilün"	audit 8: ʿ lost; the PDF prints Feʿilātün
+tacizade cafer çelebi divanı#199	number	173	178	audit 8: "178=173" prints two numberings; the other 96 records take the first
+tacizade cafer çelebi divanı#210	number	184	190	audit 8: "190=184"; the first number, as in the other records
+tacizade cafer çelebi divanı#214	number	188	194	audit 8: "194=188"; the first number, as in the other records
+gelibolulu sururi divanı#82	number	8	71	audit 8: a beyit number read as the poem number; the PDF prints 71
+gelibolulu sururi divanı#321	number	2	310	audit 8: a beyit number read as the poem number; the PDF prints 310
+gelibolulu sururi divanı#419	number	2	408	audit 8: a beyit number read as the poem number; the PDF prints 408
+gelibolulu sururi divanı#464	number	2	453	audit 8: a beyit number read as the poem number; the PDF prints 453
+lazikizade feyzullah nafiz divanı#295	number	391	223	audit 8: a footnote number read as the poem number; the PDF prints 223
+lazikizade feyzullah nafiz divanı#299	number	394	227	audit 8: a footnote number read as the poem number; the PDF prints 227
+lazikizade feyzullah nafiz divanı#301	number	396	229	audit 8: a footnote number read as the poem number; the PDF prints 229
+lazikizade feyzullah nafiz divanı#303	number	398	231	audit 8: a footnote number read as the poem number; the PDF prints 231
+lazikizade feyzullah nafiz divanı#322	number	408	250	audit 8: a footnote number read as the poem number; the PDF prints 250
+lazikizade feyzullah nafiz divanı#324	number	410	252	audit 8: a footnote number read as the poem number; the PDF prints 252
+lazikizade feyzullah nafiz divanı#684	number	641	611	audit 8: a footnote number read as the poem number; the PDF prints 611
+lazikizade feyzullah nafiz divanı#762	number	69	4	audit 8: a footnote number read as the poem number; the PDF prints 4
+lazikizade feyzullah nafiz divanı#770	number	695	12	audit 8: a footnote number read as the poem number; the PDF prints 12
+lazikizade feyzullah nafiz divanı#778	number	699	20	audit 8: a footnote number read as the poem number; the PDF prints 20
+lazikizade feyzullah nafiz divanı#4	number	3	5	audit 8: a beyit number read as the poem number; the PDF prints 5
+lazikizade feyzullah nafiz divanı#108	number	7	36	audit 8: a beyit number read as the poem number; the PDF prints 36
+lazikizade feyzullah nafiz divanı#127	number	2	55	audit 8: a beyit number read as the poem number; the PDF prints 55
+lazikizade feyzullah nafiz divanı#141	number	2	69	audit 8: a beyit number read as the poem number; the PDF prints 69
+lazikizade feyzullah nafiz divanı#175	number	5	103	audit 8: a beyit number read as the poem number; the PDF prints 103
+lazikizade feyzullah nafiz divanı#200	number	3	128	audit 8: a beyit number read as the poem number; the PDF prints 128
+lazikizade feyzullah nafiz divanı#208	number	3	136	audit 8: a beyit number read as the poem number; the PDF prints 136
+lazikizade feyzullah nafiz divanı#239	number	5	167	audit 8: a beyit number read as the poem number; the PDF prints 167
+lazikizade feyzullah nafiz divanı#245	number	7	173	audit 8: a beyit number read as the poem number; the PDF prints 173
+lazikizade feyzullah nafiz divanı#285	number	3	213	audit 8: a beyit number read as the poem number; the PDF prints 213
+lazikizade feyzullah nafiz divanı#334	number	5	262	audit 8: a beyit number read as the poem number; the PDF prints 262
+lazikizade feyzullah nafiz divanı#345	number	4	273	audit 8: a beyit number read as the poem number; the PDF prints 273
+lazikizade feyzullah nafiz divanı#364	number	4	292	audit 8: a beyit number read as the poem number; the PDF prints 292
+lazikizade feyzullah nafiz divanı#372	number	4	300	audit 8: a beyit number read as the poem number; the PDF prints 300
+lazikizade feyzullah nafiz divanı#440	number	7	368	audit 8: a beyit number read as the poem number; the PDF prints 368
+lazikizade feyzullah nafiz divanı#518	number	5	446	audit 8: a beyit number read as the poem number; the PDF prints 446
+lazikizade feyzullah nafiz divanı#554	number	5	481	audit 8: a beyit number read as the poem number; the PDF prints 481
+lazikizade feyzullah nafiz divanı#565	number	5	492	audit 8: a beyit number read as the poem number; the PDF prints 492
+lazikizade feyzullah nafiz divanı#665	number	7	592	audit 8: a beyit number read as the poem number; the PDF prints 592
+lazikizade feyzullah nafiz divanı#703	number	5	630	audit 8: a beyit number read as the poem number; the PDF prints 630
+lazikizade feyzullah nafiz divanı#732	number	7	659	audit 8: a beyit number read as the poem number; the PDF prints 659
+lazikizade feyzullah nafiz divanı#832	number	7	31	audit 8: a beyit number read as the poem number; the PDF prints 31
+lazikizade feyzullah nafiz divanı#900	number	7	100	audit 8: a beyit number read as the poem number; the PDF prints 100

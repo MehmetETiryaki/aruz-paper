@@ -1,0 +1,6 @@
+# LATOC file (without .xml)	regex	replacement
+sünbülzade vehbi divanı	(?<=[^\W\d_])[70](?=[^\W\d_]|-|[\s.,;:!?]|$)	s̱
+sünbülzade vehbi divanı	(?<=[^\W\d_])9(?=[^\W\d_])	S̱
+sünbülzade vehbi divanı	(?<!\w)[70](?=[a-zāīūâîûöüıçşğ])	s̱
+sünbülzade vehbi divanı	(?<!\w)9(?=[a-zāīūâîûöüıçşğ])	S̱
+bahti divanı	Ṣaʿīf	Żaʿīf

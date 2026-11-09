@@ -1,0 +1,113 @@
+{
+  "book": "sünbülzade vehbi divanı",
+  "poet": "Sünbülzâde Vehbî",
+  "century": 18,
+  "split": "dev",
+  "pdf_md5": "7d907194673bffaee147d2da37599bb9",
+  "xml_md5": "5f4ee548e36de1ccd76fc2905c65b375",
+  "latoc_overlay": {
+    " / ": " ",
+    "/": "ī",
+    "˒": "ʾ",
+    "#": "ī",
+    ";ā": "ḫˇā",
+    ";ū": "ḫˇū"
+  },
+  "glyph_context": [
+    [
+      "(?<=[^\\W\\d_])[70](?=[^\\W\\d_]|-|[\\s.,;:!?]|$)",
+      "s̱"
+    ],
+    [
+      "(?<=[^\\W\\d_])9(?=[^\\W\\d_])",
+      "S̱"
+    ],
+    [
+      "(?<!\\w)[70](?=[a-zāīūâîûöüıçşğ])",
+      "s̱"
+    ],
+    [
+      "(?<!\\w)9(?=[a-zāīūâîûöüıçşğ])",
+      "S̱"
+    ]
+  ],
+  "attested_glyphs": [
+    [
+      "C",
+      "ʿ"
+    ]
+  ],
+  "silent": "",
+  "context": "’'ʾ",
+  "git_commit": "e54b7de8d6c7929e595812bc495bf0f6b4e5d52c",
+  "git_dirty": false,
+  "stats": {
+    "poems": 495,
+    "units": 5793,
+    "with_inventory_meter": 451,
+    "misras_per_unit": {
+      "1": 234,
+      "2": 5346,
+      "3": 53,
+      "4": 41,
+      "5": 106,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 2,
+      "12": 3
+    },
+    "damaged_lines": 0,
+    "without_number": 262,
+    "empty": 2,
+    "meters": {
+      ".---.---.---.---": 113,
+      "..--..--..--..-": 113,
+      "-.---.---.---.-": 74,
+      "--.-.-..--.-.-": 60,
+      "--..--..--..--": 46,
+      "": 34,
+      ".-.-..--.-.-..-": 17,
+      ".---.---.--": 11,
+      "--.---.---.---.-": 8,
+      "..--.-.-..-": 7,
+      "..--..--..-": 4,
+      "-.---.---.---.--": 2,
+      "-..--.--..--.-": 2,
+      "--.-.----.-.--": 1,
+      "--..-----..---": 1,
+      "-..-.-.--..-.-.-": 1,
+      "-.---.---.-": 1
+    },
+    "health": {
+      "poem: fragment of a longer poem (starts after unit 5)": 2,
+      "poem: no units": 2,
+      "poem: no vezin printed": 34,
+      "poem: numbering resets inside the poem": 15,
+      "poem: pairing shifted (first mısra rhymes, second not)": 3,
+      "poem: poem printed twice (most units are duplicates)": 3,
+      "poem: unit 1 then a jump (lost digit or merged poem)": 7,
+      "poem: units missing": 41,
+      "poem: vezin label suspect": 22,
+      "unit: apostrophe of unclear value": 59,
+      "unit: bad character": 5,
+      "unit: duplicate": 41,
+      "unit: editor's note: words supplied by the editor": 3,
+      "unit: empty": 6,
+      "unit: fragment": 13,
+      "unit: garbled word": 4,
+      "unit: impossible word (three final consonants)": 6,
+      "unit: length": 58,
+      "unit: length±1": 88,
+      "unit: length±2": 22,
+      "unit: letter uncertain (C may be ʿ)": 18,
+      "unit: müstezâd ziyade (length unchecked)": 6,
+      "unit: no vowel": 4,
+      "unit: truncated word": 4,
+      "unit: wrong mısra count": 186,
+      "units": 5793,
+      "usable units": 5724
+    }
+  }
+}

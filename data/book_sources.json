@@ -1,0 +1,58 @@
+{
+ "bahti divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-242306/bahtisultan-i-ahmed-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "dede ömer ruşeni divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-265524/dede-omer-ruseni-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "diyarbakırlı hami ahmed divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-196122/diyarbakirli-hami-ahmed-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "dürri ahmed efendi divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-269238/durri-ahmed-efendi-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "esrar dede divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-393156/esrar-dede-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "fuzuli divanı": {
+  "landing_page": "https://ekitap.yek.gov.tr/urun/fuz%C3%BBli-divani--ikinci-baski-_850.aspx",
+  "from": "publisher's e-book page (Türkiye Yazma Eserler Kurumu, 2nd edition 2025, ed. Abdülhakim Kılınç; the PDF's creation date is 2025-06-23)"
+ },
+ "gelibolulu sururi divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-271852/gelibolulu-sururi-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "lazikizade feyzullah nafiz divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-191378/lazikizade-feyzullah-nafiz--divan.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "mihri hatun divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-208575/mihri-hatun-divani.html",
+  "from": "publisher's e-book page (Kültür ve Turizm Bakanlığı, 2018, ed. Mehmet Arslan)"
+ },
+ "muradi divanı": {
+  "landing_page": "https://ekitap.yek.gov.tr/urun/muradi-divani_591.aspx",
+  "from": "LATOC data_statistics.csv"
+ },
+ "sünbülzade vehbi divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-196833/sunbulzade-vehbi-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "tacizade cafer çelebi divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-211662/taci-zade-cafer-celebi-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "taşlıcalı yahya bey divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-356059/taslicali-yahya-bey-divani.html",
+  "from": "LATOC data_statistics.csv"
+ },
+ "şehri divanı": {
+  "landing_page": "https://ekitap.ktb.gov.tr/TR-197364/sehri-divani.html",
+  "from": "LATOC data_statistics.csv"
+ }
+}
